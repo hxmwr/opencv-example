@@ -1,4 +1,8 @@
 # opencv-example
 
 ### Dependency
-pip install opencv-python
+- python3
+- pip install opencv-python
+
+### Usage
+python3 main.py 
