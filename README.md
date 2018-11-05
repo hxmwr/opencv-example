@@ -2,7 +2,7 @@
 
 ### Dependency
 - python3
-- pip install opencv-python
+- `pip install opencv-python`
 
 ### Usage
-python3 main.py 
+`python3 main.py`
